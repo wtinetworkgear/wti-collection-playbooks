@@ -1,4 +1,3 @@
-# wti-collection-playbooks
 WTI Ansible PlayBook Collection
 =========
 
