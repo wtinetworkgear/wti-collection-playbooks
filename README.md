@@ -1,7 +1,7 @@
 WTI Ansible PlayBook Collection
 =========
 
-This [Ansible](https://www.ansible.com/) collection provides a set of platform dependent configuration
+This [Ansible](https://www.ansible.com/) collection of Playbooks provides a set of platform dependent configuration
  management modules specifically designed for  [WTI OOB and PDU devices](https://wti.com/) .
 
 Requirements
@@ -17,10 +17,10 @@ Requirements
 Installation
 -------
 
-Are you have install the WTI Galaxy Collection:
-[Github](https://github.com/wtinetworkgear/wti-collection)
+If you have not already installed the WTI Ansible Collection, you can do that here:
+[WTI Ansible Collection](https://galaxy.ansible.com/ui/repo/published/wti/remote/)
 
-You can copy these Playbook files anywhere on the machine that contains the Ansible system.
+You can then install these Playbook files from this GitHub repo to your Ansible computer.
 
 
 Contribution
